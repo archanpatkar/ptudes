@@ -13,5 +13,5 @@ Programming Etudes
 * [Advent of Code 2020](https://github.com/archanpatkar/advent2020)
 * [Benford Checker](https://github.com/archanpatkar/BenfordChecker)
 * [Simple Automatic Differentiation](https://github.com/archanpatkar/AD)
-* [Simple Hardware Simulator](https://github.com/archanpatkar/HardSim)
+* [Simple Digital Logic Simulator](https://github.com/archanpatkar/HardSim)
 * [Programming Language Experiments](https://github.com/archanpatkar/PLT)
