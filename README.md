@@ -1,5 +1,5 @@
 # ptudes
-Programming Etudes 
+Programming Etudes (name inspired by (pytudes)[https://github.com/norvig/pytudes])
 
 * [Game of Life](https://github.com/archanpatkar/GOL)
 * [Enigma Machine](https://github.com/archanpatkar/Enigma)
@@ -11,7 +11,4 @@ Programming Etudes
 * [Godel's Logics](https://github.com/archanpatkar/Godel)
 * [Three Valued Logic](https://github.com/archanpatkar/tvl)
 * [Advent of Code 2020](https://github.com/archanpatkar/advent2020)
-* [Benford Checker](https://github.com/archanpatkar/BenfordChecker)
-* [Simple Automatic Differentiation](https://github.com/archanpatkar/AD)
-* [Simple Digital Logic Simulator](https://github.com/archanpatkar/HardSim)
 * [Programming Language Experiments](https://github.com/archanpatkar/PLT)
