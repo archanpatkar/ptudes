@@ -1,5 +1,5 @@
 # ptudes
-Programming Etudes (name inspired by (pytudes)[https://github.com/norvig/pytudes])
+Programming Etudes (inspired by [pytudes](https://github.com/norvig/pytudes))
 
 * [Game of Life](https://github.com/archanpatkar/GOL)
 * [Enigma Machine](https://github.com/archanpatkar/Enigma)
