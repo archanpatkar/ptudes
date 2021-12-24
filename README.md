@@ -2,11 +2,14 @@
 Programming Etudes (inspired by [pytudes](https://github.com/norvig/pytudes))
 
 
-* [Programming Language Experiments](https://github.com/archanpatkar/PLT)
-* [Advent of Code 2020](https://github.com/archanpatkar/advent2020)
 * [Enigma Machine](https://github.com/archanpatkar/Enigma)
 * [MU puzzle](https://github.com/archanpatkar/mure)
+* [Advent of Code](https://adventofcode.com/)
+  * [2020](https://github.com/archanpatkar/advent2020)
+  * [2021](https://github.com/archanpatkar/advent2021)
+  * [2015](https://github.com/archanpatkar/advent2015) (solved in 2021)
 * [Church Encodings](https://github.com/archanpatkar/ChurchEncodings)
+* [Programming Language Experiments](https://github.com/archanpatkar/PLT)
 * [Godel's Logics](https://github.com/archanpatkar/Godel)
 * [Three Valued Logic](https://github.com/archanpatkar/tvl)
 * [Sat Solver](https://github.com/archanpatkar/vostas)
